@@ -39,7 +39,7 @@ Análise exploratória com liberdade de abordagem. **Não é necessário normali
 ## 👥 Autores
 
 - `Gabriel Nogueira Souza`
-- `Nome do Aluno 2` *(se em dupla)*
+- `Roberto Fernandes Nascimento Júnior`
 
 ---
 
